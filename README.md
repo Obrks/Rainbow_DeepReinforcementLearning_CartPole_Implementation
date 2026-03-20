@@ -2,7 +2,7 @@
 
 > An academic implementation of the Rainbow reinforcement learning algorithm (Hessel et al. 2018), built incrementally from vanilla DQN to the full combined agent. Each component is implemented as a standalone, importable Python module.
 <p align="center">
-  <img src="distribution_cartpole.gif" width="400" alt="Rainbow agent solving CartPole"/>
+  <img src="Rainbowcartpole.gif" width="400" alt="Rainbow agent solving CartPole"/>
   <br>
   <em>Trained Rainbow agent balancing the pole</em>
 </p>
