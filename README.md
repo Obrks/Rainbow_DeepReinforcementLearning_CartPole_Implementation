@@ -1,7 +1,11 @@
 # Rainbow Deep Q-Network — CartPole Implementation
 
 > An academic implementation of the Rainbow reinforcement learning algorithm (Hessel et al. 2018), built incrementally from vanilla DQN to the full combined agent. Each component is implemented as a standalone, importable Python module.
-
+<p align="center">
+  <img src="rainbow_cartpole.gif" width="400" alt="Rainbow agent solving CartPole"/>
+  <br>
+  <em>Trained Rainbow agent balancing the pole</em>
+</p>
 This project was developed as part of an Reinforcement Learning project at Université Paris Dauphine — Master MASEF. The goal is to reproduce the results of the Rainbow paper by implementing each of the six DQN improvements individually, studying their individual contributions, and combining them into a single agent. The implementation is on the CartPole game for the sake of simplicity and not 57 Atari games.  
 
 ## What is Rainbow?
